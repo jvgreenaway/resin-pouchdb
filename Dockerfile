@@ -1,5 +1,5 @@
-FROM resin/raspberrypi3-alpine-node
-# FROM orbitbox/orbit-os-node:latest
+# FROM resin/raspberrypi3-alpine-node
+FROM orbitbox/orbit-os-node:latest
 
 WORKDIR /usr/src/app
 
